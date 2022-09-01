@@ -114,8 +114,8 @@ input {
 	z-index: 2;
 }
 
-.back-button .a{
-  margin-top: 1.5rem;
+.back-button a button{
+  margin-top: 1.2rem;
 }
 
 .container.right-panel-active .sign-in-container {
