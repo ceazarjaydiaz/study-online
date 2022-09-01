@@ -254,7 +254,7 @@ img{
     flex-direction: column;
     justify-content: center;
 }
-.enroll-form input[type = "submit"]{
+.enroll-form .a .btn{
     margin: 18px 0 0 0;
     background: var(--dark);
     color: #fff;
